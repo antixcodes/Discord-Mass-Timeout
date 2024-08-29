@@ -17,19 +17,19 @@ Installation
    git clone https://github.com/antixcodes/Discord-Mass-Timeout
    cd Discord-Mass-Timeout
 
-2. Install Dependencies
+3. Install Dependencies
 
    Ensure you have pip installed, then run:
 
    pip install -r requirements.txt
 
-3. Setup Environment Variables
+4. Setup Environment Variables
 
    Create a .env file in the project directory and add your Discord bot token:
 
    token=YOUR_DISCORD_BOT_TOKEN
 
-4. Run the Bot
+5. Run the Bot
 
    Execute the bot script:
    python main.py
