@@ -1,0 +1,3 @@
+discord.py==2.2.3
+pystyle==1.1.0
+colorama==0.4.6
